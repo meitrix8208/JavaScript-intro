@@ -1,0 +1,9 @@
+#* crear un archivo de texto con la extension .env
+#* y dentro de el poner las variables de entorno
+#* de giphy de la siguiente manera:
+
+#? PD: para exponer mas variables de entorno debes poner 
+#? el prefijo VITE_ antes de cada variable 
+#! obligatoriamente
+
+VITE_API_KEY=your_api_key
