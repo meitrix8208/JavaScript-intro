@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "4.4.7"
+    "vite": "4.4.8"
   },
   "dependencies": {
     "axios": "1.4.0"
