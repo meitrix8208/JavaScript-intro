@@ -1,11 +1,13 @@
+<!-- markdownlint-disable MD028 -->
 # Proyecto inicial - Reforzamiento de JavaScript
 
----
->esta es la rama main donde se encuentra el proyecto inicial
->para clonar y usar en el curso
----
->en la rama js-source-final se encuentra el proyecto final
->como referencia para el curso
+> [!NOTE]
+> esta es la rama main donde se encuentra el proyecto inicial
+> para clonar y usar en el curso
+
+> [!TIP]
+> en la rama js-source-final se encuentra el proyecto final
+> como referencia para el curso
 
 * Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
 
