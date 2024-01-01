@@ -1,4 +1,4 @@
-//! revisar el archivo .envDemo para ver como se configura el archivo .env
+//! revisar el archivo .env.demo para ver como se configura el archivo .env
 
 const apiKey = import.meta.env.VITE_API_KEY;
 
