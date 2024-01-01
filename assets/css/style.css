@@ -4,10 +4,7 @@
     font-family: 'Courier New', Courier, monospace;
     height: 100vh;
     margin: 0;
-    /*
-    width: 100vw;
-    desactivado por interferir con el backgrond en la clase de fetch api
-    */
+    padding: 0;
 }
 
 img {
