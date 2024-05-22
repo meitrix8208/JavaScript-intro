@@ -12,11 +12,6 @@ updates:
       # Keep existing labels on pull requests
       labels:
           - "dependencies"
-      # Assign the following reviewers to pull requests
-      reviewers:
-          - "dependabot"
-          - "dependabot[bot]"
-          - "maurrod2001"
       commit-message:
           prefix: "[npm] "
       commit-message:
@@ -34,10 +29,5 @@ updates:
       # Keep existing labels on pull requests
       labels:
           - "dependencies"
-      # Assign the following reviewers to pull requests
-      reviewers:
-          - "dependabot"
-          - "dependabot[bot]"
-          - "maurrod2001"
       commit-message:
           prefix: "[npm on dev] "
